@@ -1,12 +1,12 @@
 ## [TrekDB](https://www.maravento.com)
 
-**TrekDB** is a rescue tool for MySQL/MariaDB databases. It is used only when there is damage to the structure, which prevents access to dbs and it is not possible to export them with [mysqldump](https://mariadb.com/kb/en/mysqldump/) tool, or in **.sql** format or with third-party tools / **TrekDB** es una herramienta de rescate para bases de datos MySQL/MariaDB. Se usa únicamente cuando hay daños en la estructura, que impiden el acceso a las dbs y no es posible exportarlas con la herramienta [mysqldump](https://mariadb.com/kb/en/mysqldump/), o en formato **.sql** o con herramientas de terceros
+**TrekDB** is an experimental database rescue tool for MySQL/MariaDB. It is used when there is damage to the software, which prevents access to the dbs and it is not possible to export them with traditional methods (such as [mysqldump](https://mariadb.com/kb/en/mysqldump/) tool, or in **.sql** format or with third-party tools) / **TrekDB** es una herramienta experimental de rescate de bases de datos para MySQL/MariaDB. Se usa cuando hay daños en el software, que impide el acceso a las dbs y no es posible exportarlas con métodos tradicionales (tales como [mysqldump](https://mariadb.com/kb/en/mysqldump/), o en formato **.sql** o con herramientas de terceros)
 
 ### DATA SHEET
 
 |File|Version|OS|Update|Size|
 | :---: | :---: | :---: | :---: | :---: |
-|[trekdb.exe (.zip)](https://raw.githubusercontent.com/maravento/trekdb/master/trekdb.zip)|1.0|Windows 7/8/10 x86 x64|May 15/2020|2.1 MB|
+|[trekdb.exe (.zip)](https://raw.githubusercontent.com/maravento/trekdb/master/trekdb.zip)|1.0|Windows 7/8/10 x86 x64|May 16/2020|2.1 MB|
 
 ### HOW TO USE
 ---

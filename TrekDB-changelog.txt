@@ -13,6 +13,9 @@ SO:         Windows 7/8/10 x86 x64
 ### CHANGELOG
 ---
 
+2020.05.16
+Fixed: BUGS
+
 2020.05.15
 Fixed: BUGS
 Added: MySQL/MariaDB and WampServer Support
