@@ -13,6 +13,9 @@ SO:         Windows 7/8/10 x86 x64
 ### CHANGELOG
 ---
 
+2020.05.23
+Fixed: BUGS
+
 2020.05.16
 Fixed: BUGS
 
