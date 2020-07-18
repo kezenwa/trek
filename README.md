@@ -1,6 +1,8 @@
-# [TrekDB](https://www.maravento.com)
+# [Trek](https://www.maravento.com)
 
-**TrekDB** is an experimental database rescue tool for MySQL/MariaDB. It is used when there is damage to the software, which prevents access to the dbs and it is not possible to export them with traditional methods (such as [mysqldump](https://mariadb.com/kb/en/mysqldump/) tool, or in **.sql** format or with third-party tools) / **TrekDB** es una herramienta experimental de rescate de bases de datos para MySQL/MariaDB. Se usa cuando hay daños en el software, que impide el acceso a las dbs y no es posible exportarlas con métodos tradicionales (tales como [mysqldump](https://mariadb.com/kb/en/mysqldump/), o en formato **.sql** o con herramientas de terceros)
+**Trek** is an experimental database rescue tool for MySQL/MariaDB. It is used when there is damage to the software, which prevents access to the dbs and it is not possible to export them with traditional methods (such as [mysqldump](https://mariadb.com/kb/en/mysqldump/) tool, or in **.sql** format or with third-party tools)
+
+**Trek** es una herramienta experimental de rescate de bases de datos para MySQL/MariaDB. Se usa cuando hay daños en el software, que impide el acceso a las dbs y no es posible exportarlas con métodos tradicionales (tales como [mysqldump](https://mariadb.com/kb/en/mysqldump/), o en formato **.sql** o con herramientas de terceros)
 
 ## DATA SHEET
 
@@ -8,15 +10,15 @@
 
 |File|Version|OS|Update|Size|
 | :---: | :---: | :---: | :---: | :---: |
-|[trekdb.exe (.zip)](https://raw.githubusercontent.com/maravento/trekdb/master/trekdb.zip)|1.0|Windows 7/8/10 x86 x64|May 23/2020|2.1 MB|
+|[trek.exe (.zip)](https://raw.githubusercontent.com/maravento/trek/master/trek.zip)|1.0|Windows 7/8/10 x86 x64|May 23/2020|2.1 MB|
 
 ## HOW TO USE
 
 ---
 
-Disable your Antivirus, Antimalware, SmartScreen or any other security solution in your Operating System, close all windows and check the date and time of your PC is correct. Unzip trekdb.exe (.zip) to your desktop, execute it with double click (accept privileged execution) and follow the instructions on the screen
+Disable your Antivirus, Antimalware, SmartScreen or any other security solution in your Operating System, close all windows and check the date and time of your PC is correct. Unzip trek.exe (.zip) to your desktop, execute it with double click (accept privileged execution) and follow the instructions on the screen
 
-Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de seguridad en su Sistema Operativo, cierre todas las ventanas y verifique la fecha y hora de su PC sea la correcta. Descomprima trekdb.exe (.zip) en el escritorio, ejecutarlo con doble clic (acepte la ejecución con privilegios) y siga las instrucciones en pantalla
+Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de seguridad en su Sistema Operativo, cierre todas las ventanas y verifique la fecha y hora de su PC sea la correcta. Descomprima trek.exe (.zip) en el escritorio, ejecutarlo con doble clic (acepte la ejecución con privilegios) y siga las instrucciones en pantalla
 
 ### IMPORTANT BEFORE USE
 

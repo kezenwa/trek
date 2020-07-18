@@ -1,12 +1,14 @@
-## TrekDB
+## Trek
 ---
 
-**TrekDB**  is a mariadb/mysql database rescue tool. It is used in scenarios where there are damages in mariadb/mysql that prevent its access and it is not possible to extract it with the [mysqldump](https://mariadb.com/kb/en/mysqldump/) or third-party tool / **TrekDB** es una herramienta de rescate de bases de datos mariadb/mysql. Se usa en escenarios donde hay daños en mariadb/mysql que impiden su acceso y no es posible extraerla con la herramienta [mysqldump](https://mariadb.com/kb/en/mysqldump/) o de terceros
+**Trek**  is a mariadb/mysql database rescue tool. It is used in scenarios where there are damages in mariadb/mysql that prevent its access and it is not possible to extract it with the [mysqldump](https://mariadb.com/kb/en/mysqldump/) or third-party tool
+
+**Trek** es una herramienta de rescate de bases de datos mariadb/mysql. Se usa en escenarios donde hay daños en mariadb/mysql que impiden su acceso y no es posible extraerla con la herramienta [mysqldump](https://mariadb.com/kb/en/mysqldump/) o de terceros
 
 
 ##### Data Sheet / Ficha Técnica
 
-file:       trekdb.exe (.zip)
+file:       trek.exe (.zip)
 Version:    1.0
 SO:         Windows 7/8/10 x86 x64
 
